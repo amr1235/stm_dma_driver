@@ -1,0 +1,11 @@
+DMA_Driver.c:5:6:DMA_Init	4	static
+DMA_Driver.c:10:6:DMA_Channel_Config	24	static
+DMA_Driver.c:86:6:DMA_Enable_IR	56	static
+DMA_Driver.c:106:6:DMA_ENABLE_TF_IR	16	static
+DMA_Driver.c:109:6:DMA_CLEAR_TF_IR	32	static
+DMA_Driver.c:118:6:DMA_ENABLE_HT_IR	16	static
+DMA_Driver.c:121:6:DMA_CLEAR_HT_IR	32	static
+DMA_Driver.c:130:6:DMA_ENABLE_ERROR_IR	16	static
+DMA_Driver.c:133:6:DMA_CLEAR_ERROR_IR	32	static
+DMA_Driver.c:144:15:DMA_Current_IR_Status	88	static
+DMA_Driver.c:169:6:DMA_Request_Transfer	16	static
